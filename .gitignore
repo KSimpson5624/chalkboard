@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+.venv
+
+# macOS
+.DS_Store
+
+# PyCharm
+/.idea/
+
+
+# VS code
+.vscode/
+
+# logs
+*.log
+
+# Build artifacts
+*.egg
+*.egg-info
+dist/
+build/
+.eggs/
+MANIFEST
+
+# Test arena
+sandbox.py
