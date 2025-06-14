@@ -43,6 +43,6 @@ There are several options to choose from.
 
 	print(rt.style(text='This is bold and using RGB', bold=True, r=247, g=5, b=227))
 
-
+```
 ## Screenshot of some possible output
 ![Demo Output](https://raw.githubusercontent.com/KSimpson5624/chalkboard/main/assets/demo.png)
