@@ -1,6 +1,6 @@
 [project]
 name = "chalkboard"
-version = "1.0.0"
+version = "1.0.1"
 description = "Text styling with many colors and effects"
 authors = [
     {name = "Kyle Simpson",email = "Kyle_Simpson5624@yahoo.com"}
