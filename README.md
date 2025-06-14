@@ -45,4 +45,4 @@ There are several options to choose from.
 
 
 ## Screenshot of some possible output
-![Demo Output](https://raw.githubusercontent.com/KSimpson5624/chalkboard/main/assets/demo.png)
+![Demo Output](https://raw.githubusercontent.com/KSimpson5624/chalkboard/blob/main/assets/demo.png)
