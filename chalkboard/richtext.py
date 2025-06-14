@@ -212,7 +212,7 @@ class RichText:
         return f'{self.blink}{text}{self.reset}'
 
     def reversedize(self, text) -> str:
-        """Reverses text.
+        """Reverses text. (inverts the foreground and background colors)
         :param text: The text to reverse.
         :return: The reversed text.
         """
